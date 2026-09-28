@@ -170,4 +170,6 @@ def solve(p, choose, engine=None):
             return "unknown", first_ok, played
         board.push_uci(reply)
         played.append(reply)
+        if board.is_game_over():              # es. la risposta di Stockfish da' matto a noi
+            break
     return "failed", first_ok, played
