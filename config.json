@@ -1,12 +1,12 @@
 {
-  "data_dir": "data_smoke",
-  "runs_dir": "runs_smoke",
+  "data_dir": "data",
+  "runs_dir": "runs",
   "device": "mps",
   "stockfish": "/usr/local/bin/stockfish",
   "lr": 0.001,
   "batch_size": 128,
-  "epochs": 2,
+  "epochs": 40,
   "patience": 6,
-  "min_epochs": 0,
+  "min_epochs": 10,
   "lambda_decay": 1.0
 }
