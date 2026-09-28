@@ -1,2 +1,6 @@
 .venv/
 venv/
+TimeGNN
+data/
+data_smoke/
+runs_smoke/
