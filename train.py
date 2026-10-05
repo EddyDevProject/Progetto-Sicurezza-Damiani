@@ -30,6 +30,7 @@ VARIANTS = {
     "M2": ("gat_basic", True),         # GAT con tempo sugli archi
     "M3": ("gat_time_decay", False),   # time-decay con tempo azzerato
     "M4": ("gat_time_decay", True),    # time-decay con tempo
+    "M4c": ("gat_time_decay", True),   # controllo: come M4 ma con lo stesso tempo per tutte le mosse
 }
 
 variant, seed = sys.argv[1], int(sys.argv[2])
@@ -42,15 +43,27 @@ torch.manual_seed(seed)
 np.random.seed(seed)
 print(f"{variant}: mode={mode}, tempo={use_time}, device={device}, seed={seed}")
 
+# M4c: sostituiamo il tempo di ogni mossa con la media del training. Il decadimento
+# e^(-t) resta (stesso modello di M4) ma non distingue piu' una mossa dall'altra.
+# Se M4c va come M4, il guadagno di M4 non viene dall'informazione del tempo.
+const_time = variant == "M4c"
+T_CONST = pd.read_parquet(f"{data}/train.parquet", columns=["t"])["t"].mean()
+if const_time:
+    print(f"tempo costante = {T_CONST:.3f}")
+
 # ----- grafi (li salviamo su disco: costruirli richiede qualche minuto) -------
-cache = f"{data}/graphs_{mode}_{use_time}.pt"
+cache = f"{data}/graphs_{mode}_{use_time}{'_const' if const_time else ''}.pt"
 if os.path.exists(cache):
     tr, train_g, val_g = torch.load(cache, weights_only=False)
 else:
     train_df = pd.read_parquet(f"{data}/train.parquet")
+    val_df = pd.read_parquet(f"{data}/val.parquet")
+    if const_time:
+        train_df["t"] = T_CONST
+        val_df["t"] = T_CONST
     tr = fit_transformer(make_transformer(mode, use_time), train_df)
     train_g = make_graphs(tr, train_df, mode, use_time)
-    val_g = make_graphs(tr, pd.read_parquet(f"{data}/val.parquet"), mode, use_time)
+    val_g = make_graphs(tr, val_df, mode, use_time)
     torch.save((tr, train_g, val_g), cache)
 print(f"grafi: {len(train_g)} train, {len(val_g)} val, {train_g[0][0].x.shape[1]} feature per nodo")
 
@@ -106,6 +119,8 @@ def choose(p, board, played):
     # ricostruiamo la sequenza giocata finora e prendiamo l'output dell'ultimo nodo
     times = [think_time(p["rating"])] * len(played)
     df = pd.DataFrame(puzzle_rows("x", p["fen"], played, times, p["rating"], p["n"]))
+    if const_time:
+        df["t"] = T_CONST
     g, _ = make_graphs(tr, df, mode, use_time)[0]
     with torch.no_grad():
         logits = model(Batch.from_data_list([g]).to(device))[-1].cpu()
