@@ -1,0 +1,290 @@
+system,seed,case,n,status,solved,first_ok,moves,sec
+M4c,1,DtIRf,6,failed,False,True,g8g7 a2f7 g7h6 f7f8 h6g5 f4g4 g5h5 g4h4 h5g5 f8h6 g5f5 h4f4,0.42783284187316895
+M4c,1,o7rwd,6,failed,False,True,g2e2 c5d5 g8h8 d5e5 g3e5 c1c8 f8c8 d4e5 e2e1,0.15493011474609375
+M4c,1,iNJr5,6,failed,False,True,c5c2 e4g5 f7e8 h6f8 c2g2,0.038430213928222656
+M4c,1,LY4yP,6,failed,False,True,f8e8 h6g7 h8g7 h5h7 g8h7 g3h5 g7h6 g6g7 b3c2 g2f3 c6d4 g1g2,0.3203458786010742
+M4c,1,1wTU8,6,failed,False,True,g7f6 b7f7 f6g5 f2f4 g5h5 g2g4 h5h4 f7f6 h4g3 e5g6 c2g2,0.20235490798950195
+M4c,1,KrLIy,6,solved,True,True,a5a4 e4f6 g8h8 f6h5 f7f6 e5f6 f8f6 d1d8 c6e8 d8e8 f6f8 e8f8,0.10731220245361328
+M4c,1,egGdL,6,failed,False,False,b8a8 e2a6 b7a6 e4d6 f4f3 b6b7 a8b8 b2b6 d7b6 d6c8 e7g5 c8b6,0.32736897468566895
+M4c,1,KqPrV,6,failed,False,True,g3e2 c7f7 h7h8 g5f6 h8g8 f7g7 g8f8 c1c8 d4f2 h2h1 e2g3,0.14807868003845215
+M4c,1,XLfu7,6,solved,True,True,a8c8 h4h8 g8f7 g5g7 f7g7 h1h7 g7g6 e2h5 g6g5 h7g7 f6g6 g7g6,0.10948610305786133
+M4c,1,hhuxf,6,failed,False,True,g1h1 g3f2 b6b5 f2e3 h1g2 e3e2 h2h1q b2b4 h1f1 e2e3 f1c4 b4a5,0.32317280769348145
+M4c,1,SDOan,6,failed,False,True,d7d6 h7g6 h8g8 h5d5 d6d5 g2g4 f1h3 g6h7 g8h7 g4g5 d5d1 f2e1,0.27897214889526367
+M4c,1,t29KY,6,failed,False,False,e3e5 f5f7 e5e7 f7f8 e8f8 f1f8 a8f8 d3d8 e7e1 c4f1 e1f1,0.2591378688812256
+M4c,1,i5CKX,6,failed,False,True,d7d4 h7g6 g4h5 h4h5 h8g8 h5h7 g8f8 h7h8 f8e7 h8g7 e7e6 g7d7,0.11137700080871582
+M4c,1,VzwsM,6,failed,False,True,a7a6 b3a3 h6h5 g4h5 g5g4 h5h6 g4g3 h6h7 g3g2 h7h8q g2g1q h8a8,0.10607194900512695
+M4c,1,lSITP,6,failed,False,False,d3f1 g4d7 b8d7 d4e6 f1f2 h2h1 f7e6 b2b3 f2f1 h1h2 f1f2 h2h1,0.3741798400878906
+M4c,1,qWneH,6,failed,False,True,f8e6 a8h8 e7h7 h8h7 h6h7 h5h6 g5g4 g2h1 h7h6 h1h2 h6g5 h2g1,0.3232598304748535
+M4c,1,5YWeP,6,failed,False,False,h3h2 b3b4 a5b4 a4a5 b6a5 f1e2 h1g1 e2f3 b4b3 f3f4 h2h1q f4g4,0.37275004386901855
+M4c,1,yytQj,6,failed,False,False,b8a8 b5a6 b7a6 a1b1 c2g2 g1h1 g2g3,0.1130380630493164
+M4c,1,nzrik,6,solved,True,True,a3a2 c1c2 g6g5 h4g5 h5h4 g5g6 h4h3 g6g7 h3h2 g7g8q h2h1q g8g7,0.10651707649230957
+M4c,1,6qszH,6,failed,False,False,d6c6 d1d6 c7d6 e3c5 e2f1,0.08817100524902344
+M4c,1,jswce,6,failed,False,True,f8f6 h4h7 h8h7 g5g6 f6g6 d5g8 h7g8 g1g6 d6g6 b3c5 e3e2 c5d7,0.2758219242095947
+M4c,1,jXrJN,6,failed,False,True,b6c7 e4f6 g7f6 f5h6 g8g7 f1f6 g7f6 c1g5 f6g5 g2g3 c7c1 d1e2,0.3206210136413574
+M4c,1,YCBhA,6,failed,False,True,g7g5 g3g5 h6g5 c1g1 c6c2 g1f1 b5f1 h2h4 c2g2,0.13257694244384766
+M4c,1,diVbU,6,failed,False,False,b5e2 c3e5 c7b7 d1d7 b7a6 e5c7 e2f1,0.16242218017578125
+M4c,1,6PJiX,6,failed,False,False,a8d8 d5e7 g8f8 h3h8 g7h8 h1h8 f8e7 h8h7 d8d1 e2d1 e5d3 e1f1,0.3243858814239502
+M4c,1,VZFHS,6,failed,False,True,f7e6 h3e6 g8h8 e5g6 h7g6 f1f8 a8f8 e6c8 a4a1,0.1817309856414795
+M4c,1,9uGAj,6,failed,False,False,h7h5 c2b3 a1b1 h2h3 a2a1q b3b4 b1c2 b4c5 a1h1 c5c4 h1e4 c4c5,0.37484002113342285
+M4c,1,THMMZ,6,solved,True,True,e8e6 h1h8 g8h8 a4h4 h8g8 h4h7 g8f8 h7h8 f8e7 h8g7 e7e8 g7f7,0.10808086395263672
+M4c,1,HcY01,6,failed,False,True,c6d4 g3g6 f7g6 c2b3 c4b3 g1g6 h7g6 b1g6 b3b2 h6g5 b2b1q h1g2,0.32206201553344727
+M4c,1,Q2DZT,6,solved,True,True,a3b2 h2h8 g8h8 e2h2 h8g8 h2h7 g8f8 h7h8 f8e7 h8g7 e7e8 g7f7,0.10751485824584961
+M4c,1,N3AbU,6,failed,False,False,e3f3 h8g7 b7g7 g8h8 b2f2 g2h1 f2f1 h1g2 f3f2 g2g3 f5f4,0.21134305000305176
+M4c,1,OY27F,6,failed,False,True,f7g6 h5g6 h7h8 g6h6 a7h7 h4f6 d8f6 h6f8 c5f8 d1g1 h7g7 c4e6,0.328754186630249
+M4c,1,wJTfB,6,failed,False,False,c8g4 a5a7 b8a7 b1a1 d3d2 a2a3 d2d1q a1d1 g4d1,0.18424081802368164
+M4c,1,Q98C1,6,solved,True,True,h7g8 h1h8 g8h8 d1h5 h8g8 g5g6 d5f6 e5f6 f8f6 h5h7 g8f8 h7h8,0.11087417602539062
+M4c,1,aCu03,6,failed,False,True,g7f6 d7d8 g8f7 d3d7 f7g6 d8g8 g6f5 g8g7 e5e2 g2h3 c1h1,0.10845422744750977
+M4c,1,9ty7G,6,failed,False,False,c8f5 g5f6 e8e6 f6g5 f3g4,0.03949904441833496
+M4c,1,vmVN8,6,failed,False,True,h6h5 h2g2 b6b5 g2h2 b5b4 h2g1 h4h3 g1f1 h3g3 f1e2 g3g2 e2e1,0.3195171356201172
+M4c,1,H0DDM,6,failed,False,False,e8f8 a5c7 b8c7 b3b6 f6f2 g1h1 f2f1,0.11364889144897461
+M4c,1,9uOwu,6,failed,False,True,f7g6 g3g6 g8f7 d4g7 f7e8 g6e6 e8d8 e6e7 c1f4 g2g3 f4f2 h2h1,0.17766714096069336
+M4c,1,aX99e,6,solved,True,True,f2e2 h7h8 g8h8 e3h3 h8g8 h3h7 g8f8 h7h8 f8e7 h8g7 e7e8 g7f7,0.1078650951385498
+M4c,1,qhK17,6,solved,True,True,d4c3 h7g7 f7g7 h4h7 g7g8 h7h8 g8f7 h1h7 f7e6 h8e8 c7e7 h7e7,0.10845685005187988
+M4c,1,F7ohK,6,failed,False,False,h6g6 h5h6 g6h6 e1h1 h6g7 h1h7 g7h7 b3f7 e7f7 g4h5 f7g7 h5h4,0.3083927631378174
+M4c,1,R2s1B,6,failed,False,False,b1f1 c7g7 h7g7 g4f6 g5e4 f6h5 f5h5 g2g4 h5h3,0.23427581787109375
+M4c,1,LC52Z,6,failed,False,False,c6b4 e4h7 g8h7 g1h1 a3a2,0.09526419639587402
+M4c,1,KVSxY,6,failed,False,True,e5e4 a2e6 g6e5 e6e5 e4e5 h1e1 e5f5 e1e5 f5e5 c1d1 b4b1 d1e2,0.2983889579772949
+M4c,1,F9dBR,6,failed,False,True,g8g6 f5g6 f7g6 e2e6 c5e6 h4f5 c1g1,0.11290717124938965
+M4c,1,379wp,6,solved,True,True,h7g8 h1h8 g8h8 d1h5 h8g8 g5g6 d7f6 e5f6 f8f6 h5h7 g8f8 h7h8,0.11000204086303711
+M4c,1,Qpnuy,6,failed,False,False,e4e1 h6h7 e1h1,0.01940178871154785
+M4c,1,fg65L,6,failed,False,False,h3h2 b4b5 a6b5 f1e2 h1g2 e2d3 h2h1q d3e4 b5b4 e4e3 b4b3 e3e2,0.3758714199066162
+M4c,1,Na3rY,6,failed,False,False,a5c4 e4h7 g8h7 e1e7 a6a1,0.09080100059509277
+M4c,1,NvnWb,6,failed,False,False,c6d4 h6h7 h8h7 f3h3 d4e2 g1h1 e2f4 h4f3 f4h3 f3g5 h3g5 h2h4,0.3725156784057617
+M4c,1,2T3Ft,6,failed,False,False,c7b6 f1e1 h1g2 e1e2 h2h1q b2b3 h1h4 e2d1 h4f2 d1c1 g2f3 b3b4,0.3691229820251465
+M4c,1,HIPNW,6,failed,False,False,e3e2 e6f7 d3d6 f6e5 e2e1q e5f4 e1h4 f4f3 h4f2,0.14328598976135254
+M4c,1,o0ZiX,6,failed,False,False,f5e4 h6h7 f6h7 g5e6 c1d3 e5d3 d8d3 e6g7 g8g7 h1g1 c8d8 g1h1,0.36325621604919434
+M4c,1,wYRIS,6,failed,False,True,e4c3 c2h7 g8f7 b1g6 f7f6 h7g7 f6g7 d2h6 g7h6 f3g5 h6g6 g5f7,0.2690138816833496
+M4c,1,x9U7P,6,failed,False,False,f5f4 e3g3 f4g3 h4h5 h8g7 g1h1 c6h1 h3g4 g3g2 g5e6 g2g1q g4f5,0.3228480815887451
+M4c,1,FJ3HD,6,failed,False,True,d4e3 f1f5 g7g6 f5d7 d2d7 f8g8 a5e1 h1h2 e1e2 h2h1 e2g2,0.19013285636901855
+M4c,1,Ta46v,6,failed,False,True,h6h5 g4h5 g5g4 h5h6 g4h3 c4c5 h3h2 h6h7 h2h1q h7h8q h1h8 c5c4,0.26324033737182617
+M4c,1,mqi9S,6,failed,False,True,b8d7 d3h7 g8h8 e5g6 f7g6 f4g6 h8h7 g6f8 h7g8 c2h7 g8f8 h7h8,0.32317686080932617
+M4c,1,P08tr,6,failed,False,False,f6a1 e3e7 f8e7 c1a3 d7d6 a3b4 a1b1 b4c5 b1c2 e2e1 c2c1 e1e2,0.37609291076660156
+M4c,1,NaORc,6,failed,False,False,h2h6 d5f7 f8f7 e1e7 f7e7 f1f6 h6f6 g1h1 f6f1,0.2140979766845703
+M4c,1,fk2t6,6,failed,False,True,h4g4 h1h7 h8h7 b3f7 h7h6 a1h1 h6g5 f7g7 g8g7 h1h5 g5h5 f2f4,0.2719559669494629
+M4c,1,WQURB,6,solved,True,True,g4d1 d5f7 f8f7 c7c8 g5d8 c8d8 f7f8 d3c4 d6d5 c4d5 g8h8 d8f8,0.10866785049438477
+M4c,1,QUKJJ,6,failed,False,True,a5b5 f4f7 g8h8 f7e8 c8e8 f1f8 e8f8 e4f6 f8f6 g5f7 f6f7 d6d7,0.267902135848999
+M4c,1,JfztV,6,failed,False,False,b7c6 b3b7 c8b7 c1c5 f2f1,0.08896732330322266
+M4c,1,5XUCx,6,failed,False,False,b2a1 g3g4 a1b2 g4h5 g6h5 d2d3 a2a1q d3e3 a1a4 e3f3 a4h4 f3g2,0.3717319965362549
+M4c,1,zrjMu,6,failed,False,True,d5d4 f4h6 g7g8 g4f6 e7f6 h6h7 g8h7 f1f6 b6c6 f6f3 c6f3 h1g1,0.23716473579406738
+M4c,1,edvug,6,failed,False,True,b6c5 f5g5 h6g5 e3g3 c6f6 g3g5 f6g5 g2g3 g5g3 g1h1 c8e8 b4c5,0.24511003494262695
+M4c,1,ip3v2,6,failed,False,True,h6h5 h2g2 a6a5 g2f3 a5b4 f3g2 b4a3 g2h2 b5b4 h2g1 a3a2 g1h2,0.32566285133361816
+M4c,1,uheB7,6,failed,False,False,b8b5 g6g7 b1d3 d2e1 d3e2,0.09116101264953613
+M4c,1,IBQwu,6,solved,True,True,a3a2 c1c2 g6g5 h4g5 h5h4 g5g6 h4h3 g6g7 h3h2 g7g8q h2h1q g8g7,0.10753893852233887
+M4c,1,Uhdmh,6,failed,False,False,e7f6 c7f7 f6f7 g2f3 a4a2 h3h4 a2f2 f3g4 g7g6 h4h5 f2f5 g4h4,0.29612016677856445
+M4c,1,iNth3,6,failed,False,False,e8e7 g6g7 f7g7 g1g7 e7g7 f5e6 d5e6 h6h8 g8h8 f2f3 d3d2 f3f4,0.27863287925720215
+M4c,1,iak3F,6,failed,False,False,a6a5 f4f5 a5a4 f5f4,0.08755302429199219
+M4c,1,j9wVw,6,failed,False,False,c8e6 g4e6 f6e6 g2g3 b8a6 e1d2 e6d7 a1g1 d7e8 c3e4 e7g8 e4f6,0.37172985076904297
+M4c,1,sWKdA,6,solved,True,True,e2d2 g4g7 g8h8 g7g8 h8g8 c1g1 d6g3 g1g3 d2g5 g3g5 g8f7 g5g7,0.11065006256103516
+M4c,1,rpQZo,6,failed,False,False,h8h7 d8h8 h7h8 e6g5 f5e4 h1h2 b2b1,0.16229605674743652
+M4c,1,V05O6,6,failed,False,False,f6f7 e4a8 b8a8 b5h5 f7f3 e3d4 g7g4 d4d5 f3f6,0.15995311737060547
+M4c,1,kPB1D,6,failed,False,False,c6d7 f5e7 d7e7 g5g6 e7e1,0.09000015258789062
+M4c,1,bBtCR,6,solved,True,True,h7g8 h1h8 g8h8 d1h5 h8g8 g5g6 e8f6 e5f6 f8f6 h5h7 g8f8 h7h8,0.11029195785522461
+M4c,1,i6ZmE,6,failed,False,False,d8c8 g5g6 h7g6 g1g6 g8h7 g6g7 h7g7 a6c6 c8c6 f3f4 c6c3 d3d4,0.31462883949279785
+M4c,1,4rFly,6,failed,False,False,a3a2 f4f5 g6f5 g2g3 f5f4 g3f4,0.1573801040649414
+M4c,1,uDgJf,6,failed,False,True,e4g3 h1h8 g8h8 e2h2 g3h5 h2h5 h8g8 h5h7 f8f1 c2d1 f1d1,0.14702081680297852
+M4c,1,ahXdv,6,failed,False,False,e7e5 a3a7 f8h6 g3f4 h6f4,0.04224419593811035
+M4c,1,NZvxf,6,failed,False,True,e4g3 d3h7 g8h8 f4g6 f7g6 e5g6 h8h7 g6f8 h7g8 c2h7 g8f8 h7h8,0.32450294494628906
+M4c,1,5DUpz,6,solved,True,True,f3f2 h1h8 g8h8 g1h1 h8g8 h1h8 g8h8 e1h1 f2h2 h1h2 h8g8 h2h7,0.10846996307373047
+M4c,1,kOlMT,6,failed,False,False,a3a2 c5b6 a1g1 g2f3 b8f8 g6f7 a2a1q e3e2 f8f7 f3e3 a1c3,0.252321720123291
+M4c,1,8z6l5,6,failed,False,True,d7b5 h5g6 f7g6 g3g6 b5e5 a1a8 c2c1 g1f2 e5f4 f2e2 f4f1 e2d2,0.25661635398864746
+M4c,1,666RI,6,failed,False,False,d3d2 c5e5 d2c1q,0.018646717071533203
+M4c,1,d3bMw,6,failed,False,True,a3a2 f3f6 g6h7 f6f7 h7g8 f7g7 g8f8 h5f6 a8a3 e5c3 a3c3,0.0926671028137207
+M4c,1,InsOe,6,failed,False,True,c2c1q g5g6 h7h8 a7a8 c1c8 a8c8 b3g8 c8d8 b2a3 d8e8 a3f3 h5h4,0.2041327953338623
+M4c,1,ZUdYm,6,failed,False,True,c7a7 d2d8 g8f7 h1h7 a7a3,0.03969311714172363
+M4c,1,nJ738,6,failed,False,False,b8b1 d1b3 b1b3 d6f7 f8f7 e1g1 f2g1 h1g1 b3b1 f3e1 b1e1,0.25269103050231934
+M4c,1,Ty1xl,6,failed,False,False,g4g8 f1f8 g8f8 a8b8 c8b8 a1a8 b8a8 h2h3 d7h3 h1g1 d4d1,0.22166824340820312
+M4c,1,q7P1W,6,failed,False,False,a3a2 c2b3 a1b1 g3g4 a2a1q g4h5 g6h5 f3f4 a1g7 b3b4 g7f7 b4a5,0.37210798263549805
+M4c,1,aJ7L7,6,failed,False,False,d7f6 h7g6 f6h5 f1f8 d8f8 g6h5 f8f1 g1h2 f1g2,0.1813199520111084
+M4c,1,8Kq5b,6,failed,False,False,e6d5 d6f4 g6c2 f4g5 c2d1,0.08812093734741211
+M4c,1,iFCY7,6,solved,True,True,h7h6 h5h6 g7h6 h1h6 h8g7 h6g6 g7h7 f1h1 c8h3 h1h3 e7h4 h3h4,0.10734319686889648
+M4c,1,3r2Xk,6,failed,False,False,a8a5 f3f7 g7g8 b7b8 e5b8 f7f8 g8f8 g5g6 e2h2 g6g7 f8g8 h5h6,0.3750579357147217
+M4c,1,idCHl,6,failed,False,True,g6g3 h2h6 h7h6 e2h2 g3h3 h2h3 h6g6 h3h7 g6h7 f6h4 d3b1,0.09374308586120605
+M4c,1,bO7C5,7,failed,False,True,h3h2 g3f2 b7b6 f2e3 h1g2 e3e2 h2h1q b2b3 h1h4 e2d1 h4f2 d1c1 g2f3 b3b4,0.403778076171875
+M4c,1,1eBB6,7,solved,True,True,h6g5 h1h8 g8h8 g1h1 h8g8 h1h8 g8h8 d1h1 f4h5 h1h5 h8g8 h5h7 g8f8 h7g7,0.12770724296569824
+M4c,1,Qhorh,7,failed,False,True,d8d7 h1h8 f8g7 h8g8 g7g8 d1g1 d4e2 g1g4 d7d4 e4f3 c8b7 g4e4 d4e4 c7e8,0.39484190940856934
+M4c,1,GQF3p,7,failed,False,False,c4e3 e2h5 e4g2,0.020542144775390625
+M4c,1,TcHSz,7,failed,False,False,g3h4 g2g3 h4g3 e4d4 h5h4 d4d3 h4h3 d3e4 h3h2 e4e3 h2h1q e3e2 h1d5 e2e1,0.4381699562072754
+M4c,1,jDjRr,7,failed,False,False,f6g5 d1h5 h7g8 h5g6 g5f4 h4h5 f8f7 g6h7 g8h7 h5h6 g7g6 h1h5 g6h5 a1b1,0.4457249641418457
+M4c,1,nLIoP,7,failed,False,False,g8h8 f2f3 h3f3 h2e5 d6e5 d7c6 f3g2,0.09773778915405273
+M4c,1,jQlO6,7,failed,False,False,f6g5 d1h5 h7g8 h5h8 g8h8 h4g5 h8g8 h1h8 g8h8 g5g6 c6d4 c1h6 d7e5 h6g7,0.44161510467529297
+M4c,1,2tjHd,7,failed,False,False,f6g5 e2h5 h7g8 h5h8 g8h8 h4g5 h8g8 h1h8 g8h8 g5g6 c5d4 f2f3 d7e5 c3d4,0.4485287666320801
+M4c,1,SOWsr,7,failed,False,False,f6g5 d1h5 h7g8 h5g6 g5f4 h4h5 d8e8 g6h7 g8h7 h1h3 c6e5 h5h6 g7h6 h3h5,0.45816493034362793
+M4c,1,nRGcZ,7,failed,False,True,d4c3 h6h8 g8h8 f4g6 h8h7 f1h1 h7g8 g6e7 d8e7 h1h8 g8h8 g3h4 e7h4 d3d4,0.2360379695892334
+M4c,1,qN7ib,7,failed,False,True,d8e8 h3h7 g7h7 f3f7 h7h6 a1h1 h6g5 f2f4 g5g4 h1h4 g4h4 f7h7 h4g4 h7h4,0.12466001510620117
+M4c,1,nYqvN,7,solved,True,True,e6g6 d3d8 c6d8 d1d8 e7f8 d8f8 g8f8 b2a3 g5c5 a3c5 g6d6 c5d6 f8g8 e1e8,0.12450003623962402
+M4c,1,xDxc3,7,failed,False,True,c2b3 g1g7 g8h8 g7g8 h8g8 d6f6 b3a2,0.1081850528717041
+M4c,1,IV9bj,7,failed,False,False,f6g5 d1h5 h7g8 h5h8 g8h8 h4g5 h8g8 h1h8 g8h8 g5g6 d8b6 f2f3 b6b2 f3f4,0.45458507537841797
+M4c,1,s8re0,7,failed,False,False,f6g5 d1h5 h7g8 h5h8 g8h8 h4g5 h8g8 h1h8 g8h8 g5g6 c5d4 f2f3 d7e5 c3d4,0.44925379753112793
+M4c,1,mALFH,7,failed,False,False,d8e8 e2e7 f8f1 e1f1 h3f1,0.04719877243041992
+M4c,1,3LJKB,7,failed,False,False,g8h7 e2h5 h7g8 h5g6 g5h4 h1h4 e7h4 g6h5 f8f5 c3e4 f5h5 e4f6 g7f6 g2g3,0.45247411727905273
+M4c,1,g9huS,7,failed,False,True,h5f3 b7f7 g8h8 f7e8 d8e8 e5f7 h8g8 f7h6 g7h6 e2e8 g8f7 e1e7 f6e7 e8f8,0.4001591205596924
+M4c,1,6LPvz,7,failed,False,False,d7e8 f4b8 a8b8 c5c7 h8h1 f1e2 g7e5 e2d3 e5e3 d3c4 e3c3,0.28643035888671875
+M4c,1,zfuyV,7,failed,False,False,f6g5 d1h5 h7g8 h5h8 g8h8 e5g7 h8g7 h1g1 e6e5 g2g3 e5d4 g1g2 d4c3 h4g5,0.4514319896697998
+M4c,1,5DbjM,7,failed,False,False,h8g8 a1a4 g3h3,0.022093772888183594
+M4c,1,U7ycU,7,failed,False,True,c5d4 h6g7 d4g7 h5h6 g7b2,0.03834414482116699
+M4c,1,IXc4R,7,failed,False,True,b2a2 f4f7 e7d8 f7f8 d8c7 f1f6 a2a1,0.05598306655883789
+M4c,1,i1GX5,7,failed,False,False,f6g5 d1h5 h7g8 h5h8 g8h8 h4g5 h8g8 h1h8 g8h8 g5g6 c6d4 f2f4 f8f4 a1a2,0.45122504234313965
+M4c,1,CmJk7,7,failed,False,False,f6g5 d1h5 h7g8 h5h8 g8h8 e5g7 h8g7 h1g1 d8b6 h4g5 b6b2 g5g6 f8f2 g1h1,0.3988931179046631
+M4c,1,El0tc,7,failed,False,False,g7g8 f5h6 g8g7 f1f7 f8f7 g5f6 f7f6 g1g6 h7g6 h6f5 f6f5 h3h4 f5f2 h2h3,0.4290652275085449
+M4c,1,38YBN,7,failed,False,False,c3b2 d3e3 e4d5 e3e4 b2b1q g1h2 d5e4 a2a3 e7d6 h3h4 b1e1 h2h3 e1g3,0.35999083518981934
+M4c,1,7R3Oi,7,failed,False,False,f6g5 e2h5 h7g8 h5h8 g8h8 h4g5 h8g8 h1h8 g8h8 g5g6 d8e8 a1a2 e8g6 f2f4,0.4442009925842285
+M4c,1,VyMjX,7,failed,False,True,f8c8 h6h7 g8f8 h7h8 f8e7 h8f6 e7e8 h3h8 e8d7 f6f7 d7c6 f7b7 c6b7 h8e8,0.17857623100280762
+M4c,1,nUg9p,7,failed,False,True,f8f7 h6g7 f7e6 g7e7 e6f5 g2g4 f5g4 e7e4 d5e4 h2h3 g4f4 h3h4 c1f1,0.16872501373291016
+M4c,1,8cXH8,7,failed,False,True,c2d2 h6h7 g8f8 h7h8 f8e7 h8f6 e7e8 h4h8 e8d7 f6f7 d7c6 f7e8 c8e8 h8e8,0.13993167877197266
+M4c,1,blJqx,7,failed,False,False,f6g5 e2h5 h7g8 h5h8 g8h8 h4g5 h8g8 h1h8 g8h8 g5g6 b7g2 d2e3 f8f5 a1c1,0.4618260860443115
+M4c,1,fvR1z,7,failed,False,False,g2h1 e3f3 h1g1 f3g4 h2h1q g4f5 g1f2 f5g4 h1f3 g4g5 f3b3 g5g4 b3f3 g4h4,0.4484720230102539
+M4c,1,6Om01,7,failed,False,False,h7g6 h6h8 g8h8 h3h4 b6c4 h4h5 c3a1,0.1602799892425537
+M4c,1,TWgkN,7,failed,False,False,a8g8 e2b5 c6b5 d6c5 d7c5 f4d4 a1f1,0.07905197143554688
+M4c,1,4kauv,7,failed,False,True,c3c2 b1b8 e7e8 b8e8 f8e8 e4c6 e8f8 h3c8 f8e7 c8e8 e7d6 e8d7 d6c5 d7d5,0.23246097564697266
+M4c,1,mRCeQ,7,failed,False,False,f6g5 f2f4 e5f4 h3h4 g5g4 h8c8 d1f1 g1h2 f1h1,0.13586187362670898
+M4c,1,hheNj,7,failed,False,False,e8g8 h6g7 e5g7 f5h6 g7h6 g3h3 g6f4 h3h4 e6c6 h4g4 g8g4 g2g3 c6g2,0.34514284133911133
+M4c,1,feoME,7,failed,False,False,f7f5 d3f5 f8f5 e2d3 b4e1 d3f1 e1f1,0.1622450351715088
+M4c,1,VFDLY,7,failed,False,False,f6g5 d1h5 h7g8 h5h8 g8h8 h4g5 h8g8 h1h8 g8h8 g5g6 c6d4 c1h6 d4c2 e1d1,0.446361780166626
+M4c,1,QU1zq,7,failed,False,False,a2b2 g4g7 f8g7 g3g7 f7g7 h6g7 g8g7 h4g6 h7g6 f5g6 b6c6 g2g3 b2b1 g1h2,0.4000508785247803
+M4c,1,TJShC,7,failed,False,True,g8g7 h6g7 h8g8 f2f4 d5d4 g2g3 d4d3 f4f5 e6f5 g6g5 g8g7 g5f5 d3d2 f5g4,0.344940185546875
+M4c,1,kEc10,7,failed,False,False,f7e6 c7d6 e6d6 g2e4 f2f1q e4g2 f1g2,0.11164593696594238
+M4c,1,lKLBE,7,failed,False,True,b7b5 g4g7 g8g7 d3g3 g7h8 e4a8 f8a8 g3g8 a8g8 g2g3 d7d4 g3g4 d4d2 h2g3,0.296720027923584
+M4c,1,42guN,7,failed,False,False,h5h4 f3h3 g4h3 g1h1 h3f1 f4d3 h4g3 d3f2 f1g2 h1g1 a1b1 f2d1 b1d1,0.3073747158050537
+M4c,1,mLT4k,7,failed,False,False,f6g5 d1h5 h7g8 h5h8 g8h8 h4g5 h8g8 h1h8 g8h8 g5g6 c6d4 c1h6 g7h6 g6g7,0.4462449550628662
+M4c,1,JXs4i,7,failed,False,False,f8f5 e6c8 h8h7 c8d7 d4g4 g1h1 g4g1 h1h2 g5g2,0.1855788230895996
+M4c,1,hVkjC,7,failed,False,False,f6g5 d1h5 h7g8 h5h8 g8h8 h4g5 h8g8 h1h8 g8h8 g5g6 d8e8 c1h6 g7h6 g6g7,0.44416284561157227
+M4c,1,Abswd,7,solved,True,True,e1e2 h3h6 h8g8 h6h8 g8h8 f4h2 h8g8 h2h7 g8f8 h7h8 f8e7 h8g7 e7e8 g7f7,0.12707090377807617
+M4c,1,aCTJS,7,failed,False,False,a8a2 c6c8 g8g7 c8f8 f2g2,0.08957576751708984
+M4c,1,f3rP7,7,failed,False,False,a5a4 b1a2 b3a2 c3d4 a2a1q d4e4 b2b1q e4e3 b1c2 e3f3 a1c3,0.2507131099700928
+M4c,1,pnDPI,7,failed,False,True,h2h3 d1d8 g8h7 d8h8 h7h8 e4d5 b6d5 e1h4 h3h4 g4g5 h4h2 e5e6 b2g2,0.2506260871887207
+M4c,1,VG4LH,7,failed,False,True,f3g2 b1b7 b8c8 b7c7 c8c7 d3c4 f6f1,0.11184191703796387
+M4c,1,bfVFL,7,failed,False,False,f6g5 e2h5 h7g8 h5g6 g5g4 g2g3 c6d4 e1d1 d8c7 g6h5 c7c2 d1e1 c2d3 h5h7,0.4523649215698242
+M4c,1,IOxCE,7,failed,False,False,g8h7 e2h5 h7g8 h5h8 g8h8 h4g5 h8g8 h1h8 g8h8 g5g6 c6e5 c3b5 e5g6 e3h6,0.4477808475494385
+M4c,1,qUhfm,7,failed,False,False,f6g5 d1h5 h7g8 h5g6 g5g4 g6h5 f8f5 g3h2 f5h5 g2g3 d8f8 h1g1 h5e5 e1f1,0.44941210746765137
+M4c,1,eotAN,7,failed,False,False,h7h6 d3h7 a1a2,0.020468950271606445
+M4c,1,gTJSn,7,failed,False,False,f6g5 d1h5 h7g8 h5g6 g5h4 g2g3 c6d4 e1d1 d7c6 g6f7 g8f7 h1f1 c6f3 d1e1,0.4508018493652344
+M4c,1,d9q7H,7,failed,False,True,c8f8 f1f8 g8f8 g4f4 f8g8 f4b8 g8h7 e6e8 d5g2,0.13528180122375488
+M4c,1,ueHa0,7,failed,False,False,f6g5 d1h5 h7g8 h5h8 g8h8 h4g5 h8g8 h1h8 g8h8 g5g6 d8e8 f2f3 e8g6 a1b1,0.4518251419067383
+M4c,1,exfMS,7,failed,False,False,f4f3 d2h6 h3g2,0.02037191390991211
+M4c,1,UnZDz,7,failed,False,True,c1f1 d8g8 g7h6 g8h8 h6g5 f3f4 h5f4 g3f4 g5f4 h8h6 f1g1,0.1950390338897705
+M4c,1,NCuRO,7,solved,True,True,e3e6 f6d8 g8g7 g5h6 g7h6 d8f8 h6h5 g2g4 f5g4 h3g4 h5h4 f8h6 g6h5 h6h5,0.12670183181762695
+M4c,1,WvVXF,7,failed,False,False,a5b6 c4d5 d4e2 g1f1 h4f4 f1e1 e2c3 d5e4 f4e4 e1f2 e4f4 f2e1 h8e8 b3e6,0.3777432441711426
+M4c,1,cXsML,7,failed,False,False,f2g4 d5e6 d2f2,0.018726825714111328
+M4c,1,zBqPa,7,failed,False,False,f6g5 d1h5 h7g8 h5h8 g8h8 h4g5 h8g8 h1h8 g8h8 g5g6 d8e8 f2f4 f8f4 a1b1,0.4426863193511963
+M4c,1,TK0t1,7,failed,False,False,f6g5 d1h5 h7g8 h5g6 d7e5 h4h5 e5g6 h1h4 g6h4 c1g5 e7g5 g2g4 d8f6 a1a2,0.44911718368530273
+M4c,1,jNTyg,7,failed,False,True,b6g6 f5g6 h6h5 e7e8 h5h4 e8d8 h4h3 d8e8 h3h2 e8f7 h2h1q f7f8 h1c6 f8f7,0.39061474800109863
+M4c,1,v96Cg,7,failed,False,False,f6g5 e2h5 h7g8 h5h8 g8h8 h4g5 h8g8 h1h8 g8h8 g5g6 d8e8 a1b1 e8g6 f2f4,0.445385217666626
+M4c,1,KcA3E,7,solved,True,True,f7f6 h7g6 h8g8 h1h8 g8h8 d1h5 h8g8 h5h7 g8f8 h7h8 f8e7 h8g7 f6f7 g7f7,0.12854909896850586
+M4c,1,sImOi,7,failed,False,True,e2c2 b8h8 h7g6 h8g8 g6f5 g2g4 f5e6 d3d2 b1f1 f3g2 b2b1q g8g7 c2d2 g2g3,0.34857821464538574
+M4c,1,UNPEU,7,failed,False,False,h4h3 d6e5 c3c1 g1f2 h8c8 e5e6 c8c4 e6g4 f6g4 f2f3 c1d1,0.2554030418395996
+M4c,1,KrCGp,7,failed,False,False,f6g5 d1h5 h7g8 h5h8 g8h8 h4g5 h8g8 h1h8 g8h8 g5g6 c6d4 c1h6 d4c2 e1d2,0.4479341506958008
+M4c,1,w9oqB,7,failed,False,False,f6g5 d1h5 h7g8 h5h8 g8h8 h4g5 h8g8 h1h8 g8h8 g5g6 d8e8 f2f4 e8g6 a1b1,0.4448859691619873
+M4c,1,MUdn6,7,failed,False,False,g5h4 h3h4 f2h4 f1f5 h5g6 f5g5 g6g5 g2g3 f6e4 h2h3 d8d1 h1h2 f8f2,0.3300330638885498
+M4c,1,77jhQ,7,solved,True,True,g8d8 h1h6 h8g8 h6h8 g8h8 d2h2 h8g8 h2h7 g8f8 h7h8 f8e7 h8g7 e7e8 g7f7,0.12803411483764648
+M4c,1,XYLI6,7,failed,False,False,b4c3 h6h7 g8h7 e5h5 h7g7 h5h6 d8d4 d3g6 d4d1,0.23329591751098633
+M4c,1,MHDAC,7,failed,False,False,g2f2 e2d3 h1g1 b4b5 h2h1q b2b4 h1d5 d3c3 f2d2,0.1808488368988037
+M4c,1,Nzj6t,7,failed,False,False,f7f6 h7h8 g7h8 e4f6 h8f6 d1d4 c6d4 g5f7 c2c1,0.1829071044921875
+M4c,1,14YNX,7,failed,False,False,f6g5 d1h5 h7g8 h5h8 g8h8 h4g5 h8g8 h1h8 g8h8 g5g6 d8e8 f2f3 e8g6 a1b1,0.44182777404785156
+M4c,1,Eop6H,7,failed,False,False,f6g5 d1h5 h7g8 h5h8 g8h8 h4g5 h8g8 h1h8 g8h8 g5g6 d8e8 c3b5 e8g6 a1b1,0.448840856552124
+M4c,1,kEs4s,7,failed,False,False,h6h5 g2f3 h4h3 f3f2 h3g4 f2g1 g4g3 g1f1 h5h4 f1e1 h4h3 e1e2 h3h2 e2d1,0.45390915870666504
+M4c,1,dXJN8,7,solved,True,True,e6f5 h1h8 g8h8 g1h1 h8g8 h1h8 g8h8 e1h1 f5h3 h1h3 e7h4 h3h4 h8g8 h4h7,0.13088393211364746
+M4c,1,pVfOQ,7,failed,False,False,f6g5 d1h5 h7g8 h5g6 g5f4 h4h5 d8e8 g6h7 g8h7 h1h3 c6d4 h5h6 e8g6 h3h5,0.44703102111816406
+M4c,1,IDGIy,7,failed,False,True,b7b4 e6f7 g7h6 f7f6 e7f6 g2g4 b4f4 h2g2 b1b2 g2h1 f4c1,0.16308188438415527
+M4c,1,nNPzf,7,failed,False,False,g8g7 d8g8 g7g8 b3f7 e7f7 g5e6 e1e3 e6f8 g8f8 g2g3 h4g3 h2g2 e3f2 g2h1,0.3665120601654053
+M4c,1,Wm8Kx,7,failed,False,True,a3a2 d3h7 g8f8 h7h8 g4g8 h8g8 f8g8 h1g1 d6g3 g1g3 c7g3 h5h8 g8h8 f3h4,0.29166579246520996
+M4c,1,piIAk,7,solved,True,True,f8c8 h6h7 g8f8 h7h8 f8e7 h8f6 e7e8 h3h8 e8d7 f6f7 d7c6 f7e6 c6c7 e6d6,0.1267690658569336
+M4c,1,ctMuX,7,failed,False,False,f6g5 d1h5 h7g8 h5h8 g8h8 h4g5 h8g8 h1h8 g8h8 g5g6 c6e5 f2f3 e5g6 c1h6,0.4415090084075928
+M4c,1,7TnCn,7,failed,False,False,f6g5 d1h5 h7g8 h5h8 g8h8 h4g5 h8g8 h1h8 g8h8 g5g6 c6d4 a1a2 d7e5 c1h6,0.45442724227905273
+M4c,1,3EYtF,7,failed,False,False,e3e2 f6g6 e2e1n d3c3 f2c2,0.04086589813232422
+M4c,1,9C7GF,7,failed,False,True,g7g6 e4e8 g8g7 f4g4 d1e3 f1g1 d2d1 g1f2 e3g4 f2e2 g5d2 e2f3 g4h2 f3e4,0.3102529048919678
+M4c,1,73N3v,7,failed,False,False,a4a5 b5d6 e3f2 f1f2 e4d6 b4b3 d6b5 f2f3 c8c2 b3b4 d8b6 g1h1 c2c1 f3f1,0.4006071090698242
+M4c,1,ByKWa,7,solved,True,True,g4f3 h2h8 g8h8 d2h2 f3h5 h2h5 h8g8 h5h7 g8f8 h7h8 f8e7 h8g7 e7e8 g7f7,0.13073205947875977
+M4c,1,vOsql,7,failed,False,False,f4e2 e4f6 e2f4 f2f1 b2g2 f1e1 f4d3 e1d1 c3c2,0.2332160472869873
+M4c,1,5vGgC,7,failed,False,False,f6f5 f2f3 f5f4 g2h2 h4g5 h2g1 g5f5 g1f1 f5e5 h3h4 e5d4 f1g1 d4c4 g1h2,0.4519929885864258
+M4c,1,PkyFN,7,failed,False,False,f6g5 d1h5 h7g8 h5h8 g8h8 h4g5 h8g8 h1h8 g8h8 g5g6 c6e5 a1b1 e5g6 e3h6,0.44986605644226074
+M4c,1,ge0PP,7,failed,False,True,a5b4 f6f7 g8h8 f7f8 b4f8 f1f8 h8g7 f8g8 g7g8 c2c3 a3a1,0.2504141330718994
+M4c,1,RgbYy,7,failed,False,False,d4c3 h2h8 g7h8 h1h8 g8h8 g1h1 h8g7 h1h7 g7g6 h7g7 g6g7 e5f6 g7f7 f4f5,0.44699692726135254
+M4c,1,gx3Lb,8,failed,False,True,f6g5 d3h7 g8h7 d1h5 h7g8 h5g6 d7e5 g6h7 g8h7 c1g5 c5d4 h4h5 e5d3 e1d2 f8f2 d2d3,0.4931168556213379
+M4c,1,F5ZBn,8,failed,False,False,d3d2 d6f8 d2e1n g2h3 d5h5,0.09802699089050293
+M4c,1,6hJox,8,failed,False,True,f6g5 d3h7 g8h7 d1h5 h7g8 h5g6 d7e5 h4h5 e5g6 h1h4 g6h4 g2g3 h4f3 e1d1 e6e5 d1e2,0.4932429790496826
+M4c,1,BTKVV,8,failed,False,True,f6g5 d3h7 g8h7 e2h5 h7g8 h5h8 g8h8 h4g5 h8g8 h1h8 g8h8 g5g6 c5d4 f2f3 d7e5 c3d4,0.4987518787384033
+M4c,1,MO8nF,8,failed,False,True,g7h6 f3f7 g8h8 e5g6 h7g6 h5g6 d8g5 f2f4 e8e7 f7f6 g5f6 h1h6 h8g7 h6h7 g7g6 d1h1,0.33460187911987305
+M4c,1,YIqLW,8,failed,False,True,h6h5 h2h3 g4h4 g2h2 b7b6 h2g1 h4h3 g1f1 h3g3 f1e2 g3g2 e2d1 h5h4 d1e1 h4h3 e1e2,0.43825626373291016
+M4c,1,sgSIp,8,failed,False,False,g7g8 e7f7 g8f7 e8f6 b6f2 c2c3 f7f6 h1g2 e6e5 h3h4 f2d4 c3c2 c8e6 h4h5 a8c8 c2b1,0.5044498443603516
+M4c,1,7lwrT,8,failed,False,True,f6g5 d3h7 g8h7 d1h5 h7g8 h5g6 g5h4 h1h4 e7h4 g6h5 f8f5 c3e4 f5h5 e4f6 g7f6 g2g3,0.4978461265563965
+M4c,1,tFpNE,8,failed,False,True,e8e3 d1d8 g8h7 f1f5 g7g6 f5f7 h7h6 d8h8 h6g5 f7f6 g5f6 h8f8 f6e7 f8e8 e7e8 g4g5,0.22482800483703613
+M4c,1,E3Uct,8,failed,False,True,f6g5 d3h7 g8h7 d1h5 h7g8 h5g6 g5h4 h1h4 e7h4 g6h5 f8f2 c3e4 f2f5 g2g3 f5h5 e4f6,0.4881479740142822
+M4c,1,LNGJ4,8,failed,False,True,g3g2 f1f7 d7e8 f7e7 e8d8 d6c7 d8e7 c7d6 e7f7 d6e7 g2g1q e7f6 h8a8 a5b5 g1b1,0.3204038143157959
+M4c,1,x9L4y,8,failed,False,True,f6g5 d3h7 g8h7 d1h5 h7g8 h5g6 d8e8 h4h5 e8g6 h1h4 g6f5 h4h1 f5f2 e1d1 b8c6 h1g1,0.4713621139526367
+M4c,1,hMndt,8,failed,False,False,f6g5 d1b3 c6d4 h1g1 d4b3 c3d5 e6d5 d3e4 d5e4 g1f1 d7e5 c1g5 e7g5 f1g1 d8d2 e1f1,0.5065939426422119
+M4c,1,0UR61,8,failed,False,True,g3h3 h2e5 h8g8 e5d6 h3f3 f1g1 h4f2 g1h1 f3h3 d6h2 h3h2,0.19500112533569336
+M4c,1,nM9wh,8,failed,False,True,h4h2 g5e6 f8e7 g6g7 h2f2,0.041613101959228516
+M4c,1,nQb75,8,failed,False,False,b8d7 d2c3 f8f4 c3d4 h1c1 d4f6 f4f6 d6e5 c1c2 e2e1 d7e5 f2f4 e5d3 e1f1 c2d1,0.40082883834838867
+M4c,1,jEvcC,8,failed,False,False,h6g7 g6g7 h8h5 h1h5 f8g7 h5h6 g7h6 c4b3 d8h4 c3e4 h4h1,0.31274986267089844
+M4c,1,910lX,8,failed,False,False,g6f7 g4d7 f7g6 d7e6 c1g1 h2g3 g1g2 g3h4 g2g5,0.15335297584533691
+M4c,1,ZuIOY,8,failed,False,False,a3a2 h2h4 h7h6 g3g4 h6h5 g4h5 g6h5 c1c2,0.23312926292419434
+M4c,1,QGtzX,8,failed,False,False,f8f7 c8f8 f7f8 h5f6 g5f3 g2f3 e1g1,0.11982488632202148
+M4c,1,UmHt3,8,failed,False,True,f6g5 d3h7 g8h7 d1h5 h7g8 h5h8 g8h8 h4g5 h8g8 h1h8 g8h8 g5g6 d7e5 a1b1 e7h4 b1a1,0.47965216636657715
+M4c,1,HQFDG,8,failed,False,False,a3a2 h3h4 g7g5 g2g3 g5g4 h4h5,0.1742877960205078
+M4c,1,cTqij,8,failed,False,True,d4d2 f1f7 f8e8 f7f8 e8e7 f8f7 e7e6 g3h4 d2g2,0.13507986068725586
+M4c,1,S1OSV,8,failed,False,True,h5f4 h1h8 g8h8 e2h2 f4h3 h2h3 h8g8 h3h7 g8f8 h7h8 f8e7 h8g7 c8f8 g7f7 f8f7 g5e6,0.3321669101715088
+M4c,1,iPxY0,8,failed,False,False,a6b7 e8f6 h7h6 e1e8 f8f7 e8g8 h6g5 g1f1 b2b1,0.25166916847229004
+M4c,1,Q1Imc,8,failed,False,False,g7g6 e7g7 g6g7 e1e7 g7f6 e7f7 f6f7 f2f3 b5f1 c1d2 h8e8 h2h3 f1e2 d2c1 e2e1,0.42122411727905273
+M4c,1,E9EXH,8,failed,False,True,h7h5 h2g2 a7a6 g2f3 h4h3 f3e2 h3g2 e2d3 h5h4 d3d2 h4h3 d2d1 h3h2 d1e2 h2h1q e2e3,0.47763586044311523
+M4c,1,uYPk0,8,failed,False,False,a5a4 f4g6 g8g6 f3g5 f6g5 h6g7 h8g7 f2f3 a4b3 h1h3 b3c2 b1a1 c2d1q,0.40628600120544434
+M4c,1,XeOgx,8,failed,False,False,a3a2 h3h4 h7h6 g2g3 g6g5 g3g4 g5h4 g4g5 h6g5 c1d2 a1b2 d2e1 h4h3 e1f2 a2a1q f2e2,0.5358238220214844
+M4c,1,5yDYY,8,failed,False,True,f6g5 d3h7 g8h7 d1h5 h7g8 h5g6 g5h4 h1h4 e7h4 g6h5 f8f5 g2g3 f5h5 a1b1 c6d4 f2f3,0.5490517616271973
+M4c,1,FNWXe,8,failed,False,True,f6g5 d3h7 g8h7 e2h5 h7g8 h5h8 g8h8 h4g5 h8g8 h1h8 g8h8 g5g6 c5d4 a1a2 d7e5 a3a4,0.5292210578918457
+M4c,1,Swhm6,8,failed,False,True,f6g5 d3h7 g8h7 d1h5 h7g8 h5h8 g8h8 h4g5 h8g8 h1h8 g8h8 g5g6 d7e5 f2f3 e7h4 g2g3,0.5292108058929443
+M4c,1,9Bbnm,8,failed,False,True,e6f5 e1e5 f5g6 e5f5 a2a1 b4b1 a1b1 g5c1 b1c1,0.12747478485107422
+M4c,1,axHqF,8,failed,False,True,f7e6 d2h6 g7h6 g1g6 h6h7 g6g5 f8f5 g5g6 a2b2 c1d1 b2d2,0.16776108741760254
+M4c,1,8QYsV,8,failed,False,False,e7f7 h8g8 g2b2,0.02523016929626465
+M4c,1,oPmYH,8,failed,False,False,e8d8 c1g5 d8c7 e1e5 h3f3 g2f3 g4f3 g5f4 c7b6 f2f3 a4c4 f4e3 b6a6 e5a5 a6a5 e3a7,0.547569990158081
+M4c,1,xxllg,8,failed,False,False,f5h3 e2b5 h3h1,0.026729345321655273
+M4c,1,ExchJ,8,failed,False,True,h3h2 g3f2 a7a6 f2e3 h1g2 e3e2 h2h1q a2a3 h1c1 a3a4 c1c3 e2d1 g2f3 b3b4 f3e3 b4b5,0.4192848205566406
+M4c,1,Li7R2,8,failed,False,False,d7c5 h6h7 c5d3 e1f1 c3c2 d4d7 c2d1q,0.17576026916503906
+M4c,1,LdUKg,8,failed,False,False,c4c3 e5f3 b6b4 g2g3 b4b2 f2e1 b2b1 e1f2 b8b2 f3d2 b2d2 f2f3 b1b2 g3g4 d2d3,0.40769100189208984
+M4c,1,KohAA,8,failed,False,False,f3e1 g2h1 b5c6 h1g1 e1f3 g1h1 f3d4 h1g1 d4f3 g1h1 f3g5 h1g1 d8d2 h6h7 g5h7 h5h7,0.5372061729431152
+M4c,1,zlTnt,8,failed,False,True,f6g5 d3h7 g8h7 d1h5 h7g8 h5h8 g8h8 h4g5 h8g8 h1h8 g8h8 g5g6 c5d4 d2e3 d4e3 f2f4,0.5037839412689209
+M4c,1,D55xm,8,failed,False,True,g6g5 c3c4 h7h6 h3h4 g5h4 g4g5 h6g5 c4c5 h4h3 c5c6 h3h2 c6c7 h2h1q c7d8 h1h5 d8c8,0.508958101272583
+M4c,1,QrS6f,8,failed,False,False,h7h6 g2g3 h6h5 g3g4 h5g4 c2d3 a1b2 d3e4 a2a1q e4e3 a1a4 e3e2 a4e4 e2d1 b2c3 d1c1,0.5275719165802002
+M4c,1,uxBsV,8,failed,False,False,g7d4 g5g6 d4e3 g6g5 g8g5 f5f6 g5g1 c3d1 e7e5 c2c3 d8f6 b2b4 f6f2 c1c2 f2d2 c2b3,0.5660278797149658
+M4c,1,jGvWw,8,failed,False,False,e4f3 c6b6 f3g2 h3h4 g2g1q b6c5 g1e3 c5c4 c8c7 c4d5 e3e4 d5c5 f5f4 c5b5 e4c6 b5a5,0.48209571838378906
+M4c,1,WHPa4,8,failed,False,False,d7c6 h6e6 d5d4 g1g2 f2f1,0.10286426544189453
+M4c,1,PeW37,8,failed,False,True,h3h2 g3f2 a7a6 f2e3 h1g2 e3e2 h2h1q b2b4 h1c1 a3a4 c1b2 e2d1 g2f3 b4b5 a6a5 d1e1,0.4141421318054199
+M4c,1,aRxQq,8,failed,False,False,f6g5 d1b3 g5g4 h1g1 b8c6 g1f1 c6e5 d3e4 e8f6 e4d5 e6d5 c4d5 f8f7 b3c4 e5c4 d5d6,0.5734348297119141
+M4c,1,li0nu,8,failed,False,False,g5h5 g3g4 f5g4 f8g8 c4e3 g2g3 c1e1,0.149183988571167
+M4c,1,36QZW,8,failed,False,False,h3h2 e3g3 a2a1 b4b1 a1b1,0.043263912200927734
+M4c,1,IzaPK,8,failed,False,False,g7f5 b3b4 a5b4 f7b7 c8b7 a2a3 b4a4 b2b3 a4a3 c2c3 g5e3 g1f1 g4g3 c3c4 e3f2,0.4021470546722412
+M4c,1,4wCNM,8,failed,False,False,h5g6 e7e6 d6e6 e2c4 e6e5 f2f3 d5d2 g2h3 g5g4 f3g4 f5g4 h3g4 e5f5 g4h4 d2h2,0.38930392265319824
+M4c,1,tLjUi,8,failed,False,True,f6g5 d3h7 g8h7 e2h5 h7g8 h5h8 g8h8 h4g5 h8g8 h1h8 g8h8 g5g6 c5d4 f2f3 d7e5 c3d4,0.4790158271789551
+M4c,1,WugZi,8,failed,False,False,f6f5 g2f3 h4h3 c4c5 b6b5 a4a5 h5h4 f3f2 h3h2 f2f3 h2h3 f3e2 h3g2 e2e1 h4h3 e1d1,0.5729420185089111
+M4c,1,U5xH5,8,failed,False,False,b1d3 a8h8 h7g6 h8g8 g6h5 g2g4 f5g4 f3g4 h5g4 h2h3 g4h5 g8h8 d3c3 h3h4 c3h8 f2g3,0.5787022113800049
+M4c,1,lIIqN,8,failed,False,False,b3d3 e4f6 g7f6 h2h7 g8f8 f4h6 f8e8 h7g8 e8d7 g8f7 f6e7 f7e7 d7e7 h6g7 d5f3 g3h2,0.5680530071258545
+M4c,1,Kfm1Y,8,failed,False,False,f6g5 d3g6 h7g6 f4g5 e7g5 d1h5 g6h5 h4g5 d8g5 h1h4 g5h4 g2g3 h4e4 e1f1 e4h1 f1e2,0.5685780048370361
+M4c,1,smxqU,8,failed,False,False,c8c1 f1f6 g5f6 f7f6 g6f6 d5e6 g3d3 b3a4 g4e6 a4a5 b7b6 a5b4 d3c4,0.34697794914245605
+M4c,1,BrxVj,8,failed,False,True,b7b6 f3f4 a6a5 f4f3 h4g5 f3e4 g5g4 e4e3 h5h4 e3e2 h4h3 e2d1 h3g2 d1c1 g2g1q c1d2,0.49196600914001465
+M4c,1,KADnH,8,failed,False,False,b1g1 c8g8 h8g8 e5g6 h1g2 g3h4 g2f2 h4h5 f7g6,0.2134552001953125
+M4c,1,GAVwJ,8,failed,False,True,e6b3 a7a8 b8a8 c1a1 e7a3 a1a3 a8b8 a3a7 d7f5 f1e1 g2g1 e1d2 f5f4,0.17164087295532227
+M4c,1,qPeX2,8,failed,False,True,f6g5 d3h7 g8h7 d1h5 h7g8 h5h8 g8h8 h4g5 h8g8 h1h8 g8h8 g5g6 e7g5 a1a2 g5h6 f2f4,0.48476219177246094
+M4c,1,WlZiu,8,failed,False,False,f6f5 f2f3 f5f4 g2h2 h4g5 h2g1 g5f6 g1f1 f6e5 h3h4 e5d4 f1g1 d4e3 g1h2 e3f3 h2h3,0.5703790187835693
+M4c,1,HRWer,8,failed,False,False,a1b2 e2c4 b2c2 d2e3 c2c4 d8e7 c4e4 e3f2 e4f4 f2e2 f4e5 e2f2 e5f4 f2e2 f5g4 e2e1,0.5500023365020752
+M4c,1,tF0Ar,8,failed,False,True,a3a2 c1c8 g6f8 c8f8 g8f8 g5e6 f8g8 g1e1 b2b1 g2g3 b1e1,0.23168683052062988
+M4c,1,EeJb6,8,failed,False,True,f6g5 d3h7 g8h7 d1h5 h7g8 h5g6 g5f4 h4h5 d8e8 g6h7 g8h7 h1h3 c6d4 h5h6 d7e5 h3h5,0.4969820976257324
+M4c,1,kxyJ7,8,failed,False,False,c8b8 f7b7 b8a8 d1a1 h4h3 g2g1 h3h2,0.13967013359069824
+M4c,1,0g5p7,9,failed,False,False,b7c6 e2a6 c8b8 c1c6 h4h1 f1f2 h1h2 f2f1 f5e4 c6c8 e8c8 a6c8 b8c8 a5b6 d5c4 f1e1 h2e2,0.5108270645141602
+M4c,1,40xXh,9,failed,False,False,h6h5 h2h3 h4h3 f2f1 h5h4 f1e2 h3g2 e2d1 h4h3 d1e2 h3h2 a3a4 h2h1q a4b5 h1c1 b5b6 c1c2 e2e1,0.6253459453582764
+M4c,1,FSJXI,9,failed,False,False,h4h3 a2a4 b7b6 a4a5 b6a5 f1e2 h1g2 e2d3 h2h1q d3e4 h1d1 b2b3 h3h2 b3b4 h2h1q b4a5 h1h6 a5a6,0.6161231994628906
+M4c,1,w54hZ,9,failed,False,True,d6d5 h5h8 g8h8 f4e6 e8g6 a1a2 c4c3 d1d3 c3d3 f3g2 d3g3 g2h1 b8b1 a2b1 g3h2,0.38706088066101074
+M4c,1,hJXvm,9,failed,False,True,h3h2 d4d5 a8b8 b4a6 b8c8 d5b7 c8b7 b1c1 h2g1r e1e2 g1g2,0.12649774551391602
+M4c,1,tdsDd,9,failed,False,False,c7g3 f5f6 g7h7 a8h8 h7h8 d2h6 e2f2 g1h1 f2h2,0.19647622108459473
+M4c,1,PNMjr,9,failed,False,True,e6d6 f1f6 d7e6 f6f8 d6c6 f8e7 e6e7 d8c7 e7g5 g1h2 b8h8,0.20804786682128906
+M4c,1,ifhzL,9,failed,False,False,f7g8 e4a8 g8h7 a8h8 h7h8 d1h1 h8g7 h1h7 g7h7 g2g3 e2b2,0.2656850814819336
+M4c,1,5GtUy,9,failed,False,True,c8h3 d1g1 g8f7 g1g7 f7e6 g7e7 e6f5 e7e5 c3e5 d3d4 a1d4 f3d4 e5d4 f2g3 f8g8 g3h2 d4g1 h2h3,0.38365697860717773
+M4c,1,eimKB,9,failed,False,True,e6d5 d7f6 e8e7 c3d5 e7e6 d5f4 e6e5 h3h4 d6b5 f6g4 e5d6 f2f3 d8e8 f4h5 f5g4 a1b1 g4h5 h1h2,0.5928483009338379
+M4c,1,wVpo1,9,failed,False,True,g7g1 e6h6 h8g7 h6h7 g7f6 b1g6 g1g6 h7g7 d4g1,0.18808579444885254
+M4c,1,7mJjo,9,failed,False,False,g7d4 c2f5 e3e1,0.02253890037536621
+M4c,1,KX3v3,9,failed,False,False,a1c3 d7e7 f7e7 b5e8 e7e8 h2h4 c3b2 h4h5 b2e2 h5h6 c1f1,0.2433474063873291
+M4c,1,fySgp,9,failed,False,True,a3a2 d6d7 e8d7 d2f4 a2a1q c1d2 a1d1,0.06421399116516113
+M4c,1,hzb8g,9,failed,False,False,g2g1 h5h4 e7c7 c3b3 e2d1 b3a2 c7c2 e4c2 d1c2 a2a1 g3g2 h4h1 g2h1q a3a4 g1g2,0.4181971549987793
+M4c,1,6NgRy,9,failed,False,False,e5e4 f2f3 e4f3 b2c3 f3f2 g3g4 h5g4 h4h5 g4g3 h5h6 g3g2 c3d2 g2g1q d2d3 g1c1 h6h7 f2f1q,0.4923570156097412
+M4c,1,G9dbb,9,failed,False,False,d3c1 h2h8 g8f7 g1g7 f7e6 h8h6 f8f6 h6h8 a8h8 h1h8 c3b4 b1c1 b4e1 c1b2 f6f2 b2a3 e1b4,0.48424792289733887
+M4c,1,kuxpS,10,failed,False,True,g8g7 e2e7 g7h6 e1e5 f3h1,0.05002999305725098
+M4c,1,xLfOP,10,failed,False,False,h7h5 f2f3 h4g5 g2g3 h5h4 g3h2 a7a5 f3f4 g5f4 c4c5 f4f3 b3b4 a5b4 a4a5 b4b3 h2g1 b3b2 g1h2 b2b1q a5a6,0.641998291015625
+M4c,1,51aeY,10,failed,False,False,f6g5 f1f6 g7f6 d7e6 b6d8 e6f6 d8f6 g1h2 f6f2 h3h4 h7h4,0.3111429214477539
+M4c,1,vYqmQ,10,failed,False,False,h6h5 g2f3 h4h3 f3f2 h5h4 f2f3 h3h2 b3b4 h2g1 b4c5 b6c5 f3e2 h4h3 e2d1 g1f2 d1c1 h3h2 a3a4 h2h1q c1d2,0.706585168838501
